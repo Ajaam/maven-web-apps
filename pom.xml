@@ -109,7 +109,7 @@
 	</distributionManagement>
 	
 	<build>
-		<finalName>ebay-bts-web-apps</finalName>
+		<finalName>ebay-bts2-web-apps</finalName>
 		
 		<plugins>
 			<plugin>
